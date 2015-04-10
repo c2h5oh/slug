@@ -9,7 +9,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/rainycape/unidecode"
+	"github.com/c2h5oh/unidecode"
 )
 
 var (
